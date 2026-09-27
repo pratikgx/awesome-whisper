@@ -59,7 +59,6 @@
 - [Aiko](https://sindresorhus.com/aiko) - Audio transcription iOS and macOS app.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
-- [FourYou](https://apps.apple.com/app/id1671616134) - Audio journal iOS app.
 - [Jojo Transcribe](https://apps.apple.com/app/id1659864300) - Audio transcription macOS app.
 - [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
@@ -72,7 +71,6 @@
 - [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 - [Whisper](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
-- [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
 
@@ -107,8 +105,6 @@
 ## Playgrounds
 
 - [Hugging Faces](https://huggingface.co/spaces/openai/whisper) - Whisper demo running on Hugging Faces. ([Source](https://huggingface.co/spaces/openai/whisper/tree/main))
-- [Monster API](https://whisperui.monsterapi.ai) - Whisper demo running on Monster API. ([Source](https://github.com/saharmor/whisper-playground))
-- [Web Whisper](https://whisper.r3d.red) - Whisper demo by Pluja. ([Source](https://codeberg.org/pluja/web-whisper))
 - [YouTube Video Transcription](https://github.com/ArthurFDLR/whisper-youtube) - Running on Colab.
 
 ## Packages
